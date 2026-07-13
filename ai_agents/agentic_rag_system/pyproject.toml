@@ -11,6 +11,6 @@ dependencies = [
     "langchain-community>=0.4.1",
     "langchain-google-genai>=4.2.2",
     "langgraph>=1.1.9",
-    "pypdf>=6.10.2",
+    "pypdf>=6.13.0",
     "python-dotenv>=1.2.2",
 ]
