@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "chromadb>=1.5.7",
+    "chromadb>=1.5.9",
     "landingai-ade>=1.11.0",
     "langchain>=1.2.15",
     "langchain-chroma>=1.1.0",
